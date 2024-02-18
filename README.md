@@ -17,7 +17,7 @@
     </ul>
 </body>
     <img src="img/mv.png" alt="画像">
-    <p><em>最新のテクノロジーで社会課題を解決</em></p>
+    <p>最新のテクノロジーで<em>社会課題</em>を解決</p>
 
     <h2>会社概要</h2>
     <table>
@@ -50,34 +50,17 @@
     <h2>お問い合わせ</h2>
 
     <form action="detail.html" method="get">
-        <label for="name">会社名</label>
-        <input type="text" name="name" id="name" />
-    </form>
-    <form action="detail.html" method="get">
-        <label for="name">お名前</label>
-        <input type="text" name="name" id="name" />
-    </form>
-    <form action="detail.html" method="get">
+    <label for="name">会社名</label>
+    <input type="text" name="name" id="name" />
+        <br><label for="name">お名前</label>
+    <input type="text" name="name" id="name" /></form>
         <label for="name">メールアドレス</label>
-        <input type="email" name="email" id="email" />
-    </form>
-    <form>
-    <form action="detail.html" method="get">
-        <label for="name">お問い合わせ内容</label>
+    <input type="email" name="email" id="email" /></html>
+        <br><label for="name">お問い合わせ内容</label>
         <textarea name="textarea" cols="50" rows="5"></textarea>
-    </form>
-    <form action="detail.html method=get">
-        <input type="submit" value="お申し込み"/>
+        <input type="submit" value="お申し込み" />
     </form>
     <small>&copy; 2020 TECH inc.</small>
 
 </body>
 </html>
-# 20240214_coachtech_html
-# 2024-02-13_kasuyakyoko_html
-# 20240218_kasuyakyoko_html
-# 20240218_kasuyakyoko_html
-# 20240218_kasuyakyoko_html
-# 20240218_kasuyakyoko_html
-
-[def]: mg/mv.pn
