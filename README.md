@@ -8,13 +8,15 @@
 <body>
   <h1>株式会社TECH</h1>
     
-    <p><a href="リンク先のパス">・ホーム</a></p>
-    <p><a href="リンク先のパス">・企業情報</a></p>
-    <p><a href="リンク先のパス">・会社概要</a></p>
-    <p><a href="リンク先のパス">・よくある質問</a></p>
-    <p><a href="リンク先のパス">・お問い合わせ</a></p>
+    <ul>
+        <li><a href="リンク先のタグ">ホーム</a></li>
+        <li><a href="リンク先のタグ">企業情報</a></li>
+        <li><a href="リンク先のタグ">会社概要</a></li>
+        <li><a href="リンク先のタグ">よくある質問</a></li>
+        <li><a href="リンク先のタグ">お問い合わせ</a></li>
+    </ul>
 </body>
-    <img src="img/mv 5.png" alt="画像">
+    <img src="img/mv.png" alt="画像">
     <p><em>最新のテクノロジーで社会課題を解決</em></p>
 
     <h2>会社概要</h2>
@@ -77,3 +79,5 @@
 # 20240218_kasuyakyoko_html
 # 20240218_kasuyakyoko_html
 # 20240218_kasuyakyoko_html
+
+[def]: mg/mv.pn
